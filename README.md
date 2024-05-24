@@ -38,8 +38,8 @@ I studied a technical degree in Computer Systems. I studied 7 semesters of the A
 
 ### Comunication:
 [![Demo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-lee-a6a62023b/)
-[![Demo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vlee3385@gmail.com)
-![Demo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 8123259117
+[![Demo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8123259117)
+![Demo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) _vlee3385@gmail.com_
 
 
 
