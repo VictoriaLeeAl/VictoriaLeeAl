@@ -4,8 +4,7 @@
 
 - Name: Victoria Lee
 - Located_in: Guadalupe, Nuevo León
-- Current_job: Product intelligence
-- Company: PCEL
+
 
 ### A little bit about me
 I studied a technical degree in Computer Systems. I studied 7 semesters of the Actuary Degree and I am currently studying Administrative Computer Engineering. I use Excel at an Advanced level, and Macro programming in Excel.
